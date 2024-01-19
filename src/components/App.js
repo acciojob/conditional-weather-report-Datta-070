@@ -4,7 +4,7 @@ import './../styles/App.css';
 
 const App = () => {
     const weather={
-      temperature:19,
+      temperature:25,
       conditions:"Sunny"
     }
 
